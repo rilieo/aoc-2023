@@ -1,0 +1,1 @@
+My very bad code for Advent of Code (but it works)
